@@ -1,1 +1,1 @@
-Wiiweb is a user-friendly search engine dedicated to the fascinating world of animals. Users can explore a vast database of information about various creatures, from the majestic lion to the tiniest insect
+> Wiiweb is a user-friendly search engine dedicated to the fascinating world of animals. Users can explore a vast database of information about various creatures, from the majestic lion to the tiniest insect
